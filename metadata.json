@@ -1,7 +1,0 @@
-{
-  "name": "Video Spec Checker",
-  "description": "A professional tool to analyze MP4/MOV files and verify compatibility against a comprehensive table of standard platform specifications (social media, ads, broadcast).",
-  "requestFramePermissions": [
-    "camera"
-  ]
-}
